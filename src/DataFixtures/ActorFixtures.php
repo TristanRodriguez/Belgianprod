@@ -16,19 +16,19 @@ class ActorFixtures extends Fixture
             [
                 "name" => "Gérard",
                 "lastname" => "Butler",
-                "birthday" => 18/11/2020,
+                "birthday" => "18/11/2020",
                 "gender" => "M",
             ],
             [
                 "name" => "Gérard",
                 "lastname" => "Butler",
-                "birthday" => 18/11/2020,
+                "birthday" => "18/11/2020",
                 "gender" => "M",
             ],
             [
                 "name" => "Gérard",
                 "lastname" => "Butler",
-                "birthday" => 18/11/2020,
+                "birthday" => "18/11/2020",
                 "gender" => "M",
             ],
         ];
